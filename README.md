@@ -43,4 +43,5 @@ Das Hauptziel besteht darin, ein maschinelles Lernmodell zu erstellen, das Hausp
 
 Das finale Ziel ist es, ein Modell zu entwickeln, das auf den Testdaten von Kaggle angewendet wird, um die Hauspreise mit möglichst hoher Genauigkeit vorherzusagen. Die Ergebnisse werden auf Kaggle hochgeladen, um sich im Wettbewerb zu messen.
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview/evaluation
+
 Das Projekt deckt alle wesentlichen Schritte von der Datenvorbereitung bis zur Modellbewertung ab, was es zu einer umfassenden Übung im Bereich der Datenwissenschaft und des maschinellen Lernens macht.
