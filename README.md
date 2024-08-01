@@ -1,6 +1,7 @@
 # ML-House-Price-Prediction
 In diesem Projekt wurde ein maschinelles Lernmodell entwickelt, um Immobilienpreise präzise vorherzusagen. Es umfasst umfassende Datenanalysen, Feature Engineering und die Anwendung mehrerer Regressionsmodelle zur Evaluierung der Leistung. 
 Das Hauptziel besteht darin, ein maschinelles Lernmodell zu erstellen, das Hauspreise mit minimalem Fehler vorhersagt. Die Vorhersagen sollen anschließend auf der Plattform Kaggle hochgeladen werden, um an einem Wettbewerb teilzunehmen.
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview/evaluation
 
 
 ### Schritte des Projekts:
@@ -42,6 +43,4 @@ Das Hauptziel besteht darin, ein maschinelles Lernmodell zu erstellen, das Hausp
 ### Ziel des Projekts:
 
 Das finale Ziel ist es, ein Modell zu entwickeln, das auf den Testdaten von Kaggle angewendet wird, um die Hauspreise mit möglichst hoher Genauigkeit vorherzusagen. Die Ergebnisse werden auf Kaggle hochgeladen, um sich im Wettbewerb zu messen.
-https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview/evaluation
-
 Das Projekt deckt alle wesentlichen Schritte von der Datenvorbereitung bis zur Modellbewertung ab, was es zu einer umfassenden Übung im Bereich der Datenwissenschaft und des maschinellen Lernens macht.
