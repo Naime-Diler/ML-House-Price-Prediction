@@ -5,6 +5,7 @@ Das Hauptziel besteht darin, ein maschinelles Lernmodell zu erstellen, das Hausp
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview/evaluation
 
 
+
 ### Schritte des Projekts:
 
 #### 1. **Explorative Datenanalyse (EDA):**
